@@ -1,7 +1,7 @@
 # Hi I'm Habibur Rahman
 ## Frontend Developer
 
-https://portfoliohabib.netlify.app
+I am a passionate web developer specializing in building dynamic and responsive web applications using React and the Mern stack. With expertise in React, MongoDB, Express, Node.js, and JavaScript, I create full-stack applications that are efficient, scalable, and user-friendly
 
  Skills: 
 ✔ Html,
