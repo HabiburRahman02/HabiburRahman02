@@ -15,7 +15,7 @@ https://portfoliohabib.netlify.app
 ✔ MongoDB,
 ✔ Firebase,
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on React Project. 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
 
