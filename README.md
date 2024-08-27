@@ -3,7 +3,7 @@
 
 https://portfoliohabib.netlify.app
 
-Skills: 
+ Skills: 
 ✔ Html,
 ✔ CSS,
 ✔ Javascript,
