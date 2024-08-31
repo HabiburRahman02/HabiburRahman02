@@ -17,9 +17,9 @@ I am a passionate web developer specializing in building dynamic and responsive 
 ✅ MongoDB,  <br>
 ✅ Firebase,  <br>
 
-🔭 I’m currently working on React Project. 
-👯 I’m looking to collaborate on Github 
-💬 Ask me about Web Development 
+🔭 I’m currently working on React Project. <br>
+👯 I’m looking to collaborate on Github <br>
+💬 Ask me about Web Development <br>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/HabiburRahman02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/habiburrahmandev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/habiburrahman.habib.56027281)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfoliohabib.netlify.app)  
