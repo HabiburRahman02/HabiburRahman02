@@ -3,9 +3,9 @@
 # Hi I'm Md. Habibullah
 ## Frontend Web Developer
 
-I am a passionate web developer specializing in building dynamic and responsive web applications using React and the Mern stack. With expertise in React, MongoDB, Express, Node.js, and JavaScript, I create full-stack applications that are efficient, scalable, and user-friendly
+I am a web developer specializing in building dynamic and responsive web applications using React and the Mern stack. With expertise in React, MongoDB, Express, Node.js, and JavaScript, I create full-stack applications that are efficient, scalable, and user-friendly
 
-### Skills: <br>
+## Skills: <br>
 ✅ Html  <br>
 ✅ CSS  <br>
 ✅ Javascript  <br>
