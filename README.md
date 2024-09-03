@@ -6,16 +6,16 @@
 I am a passionate web developer specializing in building dynamic and responsive web applications using React and the Mern stack. With expertise in React, MongoDB, Express, Node.js, and JavaScript, I create full-stack applications that are efficient, scalable, and user-friendly
 
 ### Skills: <br>
-✅ Html,  <br>
-✅ CSS,  <br>
-✅ Javascript,  <br>
-✅ Bootstrap,  <br>
-✅ Tailwind CSS,  <br>
-✅ React,  <br>
-✅ Node,  <br>
-✅ Express,  <br>
-✅ MongoDB,  <br>
-✅ Firebase,  <br>
+✅ Html  <br>
+✅ CSS  <br>
+✅ Javascript  <br>
+✅ Bootstrap  <br>
+✅ Tailwind CSS  <br>
+✅ React  <br>
+✅ Node  <br>
+✅ Express  <br>
+✅ MongoDB  <br>
+✅ Firebase  <br>
 
 🔭 I’m currently working on React Project. <br>
 👯 I’m looking to collaborate on Github <br>
