@@ -58,12 +58,12 @@ Feel free to explore my projects and reach out for collaboration opportunities!<
 <h3>Where to find me</h3>
 <p>
   <a href="https://www.linkedin.com/in/habiburrahmandev" target="_blank" rel="noopener noreferrer">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-  <a href="https://web.facebook.com/habiburrahman.habib.56027281" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://web.facebook.com/habiburrahman.habib.56027281" target="_blank" rel="noopener noreferrer">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%234285F4.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://wa.me/8801779888454" target="_blank">
+  <a href="https://wa.me/8801779888454" target="_blank" rel="noopener noreferrer">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2314A74B.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
