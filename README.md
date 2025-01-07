@@ -1,10 +1,10 @@
 <img src="https://www.linkedin.com/in/habiburrahmandev/overlay/background-image" alt="Mokkapps GitHub README header image">
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="Blob Sunglasses Icon"/> Hey! It's great to meet you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531838437/2830/blob-heart.gif?1531838437" width="30" alt="Blob Heart Icon"/> Hey! It's great to meet you.</h1>
 <h3> Frontend Web Developer</h3>
 
 
 <p>Welcome!</br>  
-I'm Md Habibullah, a Frontend Developer based in <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Bangladesh.svg" width="13" alt="Bangladesh Flag"/>
+I'm Md Habibullah, a Frontend Developer based in <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Bangladesh.svg" width="13" alt="Bangladesh Flag"/>
  <b>Dhaka, Bangladesh</b>.  
 I specialize in creating modern, responsive, and user-centric web interfaces that provide seamless experiences across all devices.  
 With a focus on clean, efficient code, I bridge the gap between design and functionality.  
