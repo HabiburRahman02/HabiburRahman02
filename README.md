@@ -7,7 +7,7 @@
 
 
 <p>Welcome!</br>  
-I'm Md Habibullah, a Frontend Developer based in <img src="https://img.icons8.com/?size=100&id=60238&format=png&color=000000" width="13" alt="Bangladesh Flag"/>
+I'm a Frontend Developer based in <img src="https://img.icons8.com/?size=100&id=60238&format=png&color=000000" width="13" alt="Bangladesh Flag"/>
  <b>Dhaka, Bangladesh</b>.  
 I specialize in creating modern, responsive, and user-centric web interfaces that provide seamless experiences across all devices.  
 With a focus on clean, efficient code, I bridge the gap between design and functionality.  
