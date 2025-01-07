@@ -1,13 +1,17 @@
+<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
 <h1><img src="https://img.icons8.com/ios/50/000000/hello.png" width="30" alt="Hello Icon"/> Hello! It's great to meet you.</h1>
+<h3> Frontend Web Developer</h3>
 
 
 <p>Welcome!</br>  
-I'm Md Habibullah, a Frontend Developer based in <img src="https://cdn-icons-png.flaticon.com/512/197/197610.png" width="13"/> <b>Dhaka, Bangladesh</b>.  
+I'm Md Habibullah, a Frontend Developer based in <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Bangladesh.svg" width="13" alt="Bangladesh Flag"/>
+ <b>Dhaka, Bangladesh</b>.  
 I specialize in creating modern, responsive, and user-centric web interfaces that provide seamless experiences across all devices.  
 With a focus on clean, efficient code, I bridge the gap between design and functionality.  
 I use the latest technologies to transform creative ideas into dynamic web applications.  
 Constantly exploring new trends, I strive to provide innovative and future-ready solutions.  
 Feel free to explore my projects and reach out for collaboration opportunities!</p>
+
 
 <h3>I code with</h3>
 <p>
@@ -24,16 +28,19 @@ Feel free to explore my projects and reach out for collaboration opportunities!<
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
 </p>
 
+
 <h3>I am currently learning</h3>
 <p>
  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 </p>
+
 
 🔭 I’m currently working on React Project. <br>
 👯 I’m looking to collaborate on Github <br>
 💬 Ask me about Web Development <br>
 🌱 I’m learning Next.js and exploring new tools <br>
 🚀 I’m focused on improving performance optimization techniques <br>
+
 
 <h3>Where to find me</h3>
 <p>
