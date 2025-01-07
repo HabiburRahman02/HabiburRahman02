@@ -1,5 +1,5 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
-<h1><img src="https://img.icons8.com/ios/50/000000/hello.png" width="30" alt="Hello Icon"/> Hello! It's great to meet you.</h1>
+<img src="https://www.linkedin.com/in/habiburrahmandev/overlay/background-image" alt="Mokkapps GitHub README header image">
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="Blob Sunglasses Icon"/> Hey! It's great to meet you.</h1>
 <h3> Frontend Web Developer</h3>
 
 
