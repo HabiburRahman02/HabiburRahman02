@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://img.icons8.com/ios/50/000000/hello.png" width="30" alt="Hello Icon"/> Hello! It's great to meet you.</h1>
 
 
 <p>Welcome!</br>  
@@ -24,18 +24,27 @@ Feel free to explore my projects and reach out for collaboration opportunities!<
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
 </p>
 
-
-<h3>Where to find me</h3>
-<p><a href="https://www.linkedin.com/in/habiburrahmandev" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://web.facebook.com/habiburrahman.habib.56027281" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%234285F4.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://wa.me/8801779888454" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2314A74B.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<h3>I am currently learning</h3>
+<p>
+ <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 </p>
-
-------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, 7 January, 16:27 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
-
 
 🔭 I’m currently working on React Project. <br>
 👯 I’m looking to collaborate on Github <br>
 💬 Ask me about Web Development <br>
+🌱 I’m learning Next.js and exploring new tools <br>
+🚀 I’m focused on improving performance optimization techniques <br>
+
+<h3>Where to find me</h3>
+<p>
+  <a href="https://www.linkedin.com/in/habiburrahmandev" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://web.facebook.com/habiburrahman.habib.56027281" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%234285F4.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://wa.me/8801779888454" target="_blank">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2314A74B.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
