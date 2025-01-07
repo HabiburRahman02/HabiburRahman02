@@ -42,6 +42,24 @@ Feel free to explore my projects and reach out for collaboration opportunities!<
 🚀 I’m focused on improving performance optimization techniques <br>
 
 
+### Portfolio
+
+> *pending...*
+
+![Leo's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
+
+<details>
+  <summary>Click👆</summary>
+  <pre>
+  🤷‍♂️
+  </pre>
+</details>
+
+
+![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
+![pv](https://pageview.vercel.app/?github_user=mopig)
+
 <h3>Where to find me</h3>
 <p>
   <a href="https://www.linkedin.com/in/habiburrahmandev" target="_blank">
