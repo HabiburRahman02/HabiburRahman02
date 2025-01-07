@@ -1,5 +1,5 @@
-<img src="https://www.linkedin.com/in/habiburrahmandev/overlay/background-image" alt="Mokkapps GitHub README header image">
-<h1><img src="https://media.giphy.com/media/3ohs7Lgihzxg4Gb6sY/giphy.gif" width="30" alt="Blob Heart Icon"/> Hey! It's great to meet you.</h1>
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQHF-xZLZmiS0Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724841999893?e=1741824000&v=beta&t=Xva0WSWMFso9VP7Q9Lr_Zu8Ux33BNInDmSaRRws-buw" alt="Mokkapps GitHub README header image">
+<h1><img src="https://media.giphy.com/media/1kqv9pbAbO1pO/giphy.gif" width="30" alt="Happy Icon"/> Hey! It's great to meet you.</h1>
 <h3> Frontend Web Developer</h3>
 
 
