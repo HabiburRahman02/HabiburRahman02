@@ -50,7 +50,7 @@ Feel free to explore my projects and reach out for collaboration opportunities!<
 
 <h3 align="left">🔥 My Stats :</h3>
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=HabiburRahman02&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+    <img src="https://streak-stats.demolab.com?user=HabiburRahman02&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 <div align="center">
