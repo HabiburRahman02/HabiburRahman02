@@ -1,4 +1,5 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQFoBCq2knVk3w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736403317380?e=1741824000&v=beta&t=dlZn_AGn3eQshrUhGupqGmiM8FSlMZMZf-c4wmTpjZk" alt="Mokkapps GitHub README header image">
+<img width="1731" height="428" alt="Screenshot from 2026-02-18 15-54-43" src="https://github.com/user-attachments/assets/684fafa5-68d3-48f6-9bc3-1768857136f6" />
+
 <h1>
   <img src="https://img.icons8.com/?size=100&id=1H52efUsDX7A&format=png&color=000000" width="30" alt="Happy Icon" /> 
   Hey! I'm Habibullah
@@ -6,13 +7,15 @@
 <h3>Full Stack Developer | React | Next.js | TypeScript | Node.js </h3>
 
 
-<p>Welcome!</br>  
-I'm a Full Stack Developer based in <img src="https://img.icons8.com/?size=100&id=60238&format=png&color=000000" width="13" alt="Bangladesh Flag"/>
- <b>Dhaka, Bangladesh</b>.  
-I am a Full Stack Developer with 1 year of professional experience, specializing in building modern, responsive, and scalable web applications.
-I work with technologies like React, Next.js, Node.js, TypeScript, PostgreSQL, and MongoDB to deliver clean and efficient code.
-Passionate about bridging design and functionality, I continuously explore new trends to create innovative, user-friendly solutions.
-Feel free to explore my repositories and reach out for collaboration or projects!</p>
+<p>
+Welcome!<br>
+I'm a Full Stack Developer based in <img src="https://img.icons8.com/?size=100&id=60238&format=png&color=000000" width="13" alt="Bangladesh Flag"/> 
+<b>Dhaka, Bangladesh</b>.<br>
+I have 1 year of professional experience working on <b>production-level projects</b>, building modern, responsive, and scalable web applications.  
+Passionate about bridging design and functionality, I continuously explore new trends to create innovative, user-friendly solutions.  
+Feel free to explore my repositories and reach out for collaboration or projects!
+</p>
+
 
 
 <h3>I code with</h3>
