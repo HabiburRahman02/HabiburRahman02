@@ -3,17 +3,16 @@
   <img src="https://img.icons8.com/?size=100&id=1H52efUsDX7A&format=png&color=000000" width="30" alt="Happy Icon" /> 
   Hey! I'm Habibullah
 </h1>
-<h3> Frontend Web Developer</h3>
+<h3>Full Stack Developer | React | Next.js | TypeScript | Node.js </h3>
 
 
 <p>Welcome!</br>  
-I'm a Frontend Developer based in <img src="https://img.icons8.com/?size=100&id=60238&format=png&color=000000" width="13" alt="Bangladesh Flag"/>
+I'm a Full Stack Developer based in <img src="https://img.icons8.com/?size=100&id=60238&format=png&color=000000" width="13" alt="Bangladesh Flag"/>
  <b>Dhaka, Bangladesh</b>.  
-I specialize in creating modern, responsive, and user-centric web interfaces that provide seamless experiences across all devices.  
-With a focus on clean, efficient code, I bridge the gap between design and functionality.  
-I use the latest technologies to transform creative ideas into dynamic web applications.  
-Constantly exploring new trends, I strive to provide innovative and future-ready solutions.  
-Feel free to explore my projects and reach out for collaboration opportunities!</p>
+I am a Full Stack Developer with 1 year of professional experience, specializing in building modern, responsive, and scalable web applications.
+I work with technologies like React, Next.js, Node.js, TypeScript, PostgreSQL, and MongoDB to deliver clean and efficient code.
+Passionate about bridging design and functionality, I continuously explore new trends to create innovative, user-friendly solutions.
+Feel free to explore my repositories and reach out for collaboration or projects!</p>
 
 
 <h3>I code with</h3>
@@ -32,18 +31,23 @@ Feel free to explore my projects and reach out for collaboration opportunities!<
 </p>
 
 
-<h3>I am currently learning</h3>
+<h3>Currently Working With</h3>
 <p>
- <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 </p>
 
 
-🔭 I’m currently working on React Project. <br>
-👯 I’m looking to collaborate on Github <br>
-💬 Ask me about Web Development <br>
-🌱 I’m learning Next.js and exploring new tools <br>
-🚀 I’m focused on improving performance optimization techniques <br>
 
+🔭 I’m currently working as a Full Stack Developer on production-level web applications. <br>
+💼 Experience: 1+ year  
+⚡ Stack: React | Next.js | TypeScript | Node | PostgreSQL  | MongoDB
+🚀 Focus: Clean Architecture & Performance
 
 
 ###
